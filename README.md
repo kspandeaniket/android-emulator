@@ -200,10 +200,6 @@ Yes. Run the installer again, pick another image or device, and use a new AVD na
 **Can I change the SDK location?**
 Yes, pass `-SdkRoot` to both the installer and the uninstaller.
 
-## License
-
-Add your preferred license here (for example MIT). Android SDK components are licensed by Google under their own terms, which you accept when licenses are accepted during setup.
-
 ## Disclaimer
 
 Not affiliated with or endorsed by Google. Android and the Android Emulator are trademarks of Google LLC. Use at your own risk.
